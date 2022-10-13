@@ -1,5 +1,7 @@
-# BetterDiscord Plugin Template in TypeScript 2022
+# BetterDiscord Plugin Template in TypeScript
 A starter template for creating plugins for BetterDiscord in Typescript. An updated version from [tqwewe's](https://github.com/tqwewe/betterdiscord-typescript-template) Typescript template.
+
+# **Currently supports BetterDiscord version: `v1.8.0`!**
 
 ## Introduction
 This plugin template should be a folder inside your BetterDiscord plugins directory.
